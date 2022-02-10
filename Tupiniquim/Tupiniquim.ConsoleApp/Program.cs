@@ -19,13 +19,13 @@ namespace Tupiniquim.ConsoleApp
                 double py = 0;
                 char pontoCardeal;
 
-                Console.Write("Digite a posição inical da coordenada x do robô  : ");
+                Console.Write("Digite a posição inical da coordenada x do robô: ");
                 px = Convert.ToDouble(Console.ReadLine());
 
-                Console.Write("Digite a posição inical da coordenada y do robô : ");
+                Console.Write("Digite a posição inical da coordenada y do robô: ");
                 py = Convert.ToDouble(Console.ReadLine());
 
-                Console.Write("Digite a direção inicial do robô (N - Norte/S- Sul/L - Leste/O - Oeste) : ");
+                Console.Write("Digite a direção inicial do robô (N - Norte/S- Sul/L - Leste/O - Oeste): ");
                 pontoCardeal = Convert.ToChar(Console.ReadLine());
 
                 Console.Write("Digite as isntruções do robô (M - Mover/E - Girar para a esquerda/D - Girar para a direita): ");
