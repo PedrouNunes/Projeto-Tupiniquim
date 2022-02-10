@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net5.0\Tupiniquim.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net5.0\Tupiniquim.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net5.0\Tupiniquim.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net5.0\Tupiniquim.ConsoleApp.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net5.0\Tupiniquim.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net5.0\Tupiniquim.ConsoleApp.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net5.0\Tupiniquim.ConsoleApp.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net5.0\Tupiniquim.ConsoleApp.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net5.0\Tupiniquim.ConsoleApp.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net5.0\Tupiniquim.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net5.0\ref\Tupiniquim.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\bin\Debug\net5.0\Tupiniquim.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net5.0\Tupiniquim.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net5.0\ref\Tupiniquim.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net5.0\Tupiniquim.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Tupiniquim\Tupiniquim.ConsoleApp\obj\Debug\net5.0\Tupiniquim.ConsoleApp.genruntimeconfig.cache
